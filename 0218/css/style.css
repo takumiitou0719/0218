@@ -1,0 +1,63 @@
+#form-table{
+    margin: 0% auto;
+    max-width: 800px;
+}
+#header{
+    text-align: center;
+}
+img{
+    width: 800px;
+    height: 350px;
+    object-fit: cover;
+    object-position: bottom;
+}
+th{
+    background-color: aqua;
+    text-align: left;
+    height: 50px;
+    border-top: 1px solid #ddd;
+}
+td{
+    border-top: 1px solid #ddd;
+}
+table{
+    width: 800px;
+    border-collapse: collapse;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+textarea{
+    border: 1px solid #ddd;
+        border-radius: 6px;
+        margin-left: 40px;
+        padding-left: 1em;
+        padding-right: 1em;
+        height: 216px;
+        flex: 1;
+        width: 100%;
+        max-width: 410px;
+        background: #eaedf2;
+        font-size: 18px;
+}
+.aaa{
+    border: 1px solid #ddd;
+        border-radius: 6px;
+        margin-left: 40px;
+        padding-left: 1em;
+        padding-right: 1em;
+        height: 48px;
+        flex: 1;
+        width: 100%;
+        max-width: 410px;
+        background: #eaedf2;
+        font-size: 18px;
+}
+.btn{
+    background-color: green;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 1em;
+    margin-top: 10px;
+    margin-left: 600px;
+}
